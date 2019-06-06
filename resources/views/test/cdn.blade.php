@@ -9,9 +9,8 @@
 </head>
 <body>
     <div><h1>图片展示</h1></div>
-    <div><img src="" alt=""></div>
-    <div><img src="" alt=""></div>
-    <div><img src="" alt=""></div>
-    <div><img src="" alt=""></div>
+    <div><img src="http://web1.998cv.com/a.jpg" alt=""></div>
+    <div><img src="http://web1.998cv.com/b.jpg" alt=""></div>
+    <div><img src="http://web1.998cv.com/c.jpg" alt=""></div>
 </body>
 </html>
